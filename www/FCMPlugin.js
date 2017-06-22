@@ -1,7 +1,7 @@
 var exec = require('cordova/exec');
 
 function FCMPlugin() { 
-	console.log("FCMPlugin.js: is created");
+	alert("FCMPlugin.js: is created");
 }
 
 // SUBSCRIBE TO TOPIC //
